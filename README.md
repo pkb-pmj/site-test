@@ -1,4 +1,4 @@
-# site-test
+# Site Test Heading
 Test [Github Pages](pages.github.com)
 
 ## heading 2
