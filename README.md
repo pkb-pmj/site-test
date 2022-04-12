@@ -1,5 +1,4 @@
 ---
-title: Site Test
 ---
 
 # site-test
