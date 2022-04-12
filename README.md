@@ -1,5 +1,3 @@
----
----
 
 # site-test
 Test [Github Pages](pages.github.com)
